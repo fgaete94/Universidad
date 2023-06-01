@@ -35,5 +35,3 @@ print(numeros)
 num=[111,20,32]
 num.sort()
 print(num)
-
-#la diferencia entre los arreglos y las listas, es que los arreglos son solo de un tipo de datos.
